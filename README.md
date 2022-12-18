@@ -20,13 +20,17 @@
 
 '''Bash
 
-      $ git clone https://github.com/Matheus-Vilas-Boas/WeatherApp
+    #clonar reposiório
+    $ git clone https://github.com/Matheus-Vilas-Boas/WeatherApp
 
-      $ cd WeatherApp
+    # entrar no repositório
+    $ cd WeatherApp
 
-      $ yarn install 
+    # instalar projeto
+    $ yarn install 
 
-      $ yarn start 
+    # Abrir projeto
+    $ yarn start 
 
 '''
 
