@@ -18,7 +18,7 @@
 
 <h2> 📥Download do projeto</h2>
 
-´´´Bash
+```Bash
 
     #clonar reposiório
     $ git clone https://github.com/Matheus-Vilas-Boas/WeatherApp
@@ -32,5 +32,5 @@
     # Abrir projeto
     $ yarn start 
 
-´´´
+```
 
